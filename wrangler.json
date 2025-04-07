@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "eddugarciadev",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "e12f79a3-774a-4e52-b853-1b3ff6eea6e6",
+      "database_name": "api-cdi"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
